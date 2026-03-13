@@ -73,7 +73,6 @@ npm start
 
 ### Diğer Komutlar
 
-- **/afk** - AFK durumunu ayarla
 - **/ping** - Bot'un gecikme süresini göster
 
 ## ⚙️ Günlük Limitler
